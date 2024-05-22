@@ -2,7 +2,7 @@ ktx to png or png to ktx
 
 Download the zip and extracrt the file
 
-
+https://github.com/BrianGoh0521/ktx2png/archive/refs/tags/v1.zip
 
 Run main.py and close it
 
