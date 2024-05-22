@@ -1,3 +1,5 @@
+**Only Run In Pc , another device cannot run exe**
+
 ktx to png or png to ktx
 
 Download the zip and extracrt the file
